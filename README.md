@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Boos</h1>
-<h3 align="center">Studying in Faculty of Information Technology @KMITL</h3>
 
 - 📫 How to reach me **warangkhana.spcrn@gmail.com**
 
